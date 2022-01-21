@@ -13,6 +13,6 @@
 ![4](https://user-images.githubusercontent.com/92709439/150487115-d1cdc2b8-6834-4430-8f74-282e447f30ba.png)
 
 
-# 참고 깃허브 링크 첨부
+# 참고 깃허브
 - https://github.com/ParkYunha/SearchMovieAndBook
 - 
